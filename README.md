@@ -29,15 +29,15 @@ For this Code Review you be evaluated using the following criteria:
 
 To set up this portion, complete the following steps:
 
-1. Fork [this]() repository. When doing so **make sure to unclick the box that says "Copy the main branch only"**.
+1. Fork [this](https://github.com/turingschool-examples/LaunchM5W2Assessment) repository. When doing so **make sure to unclick the box that says "Copy the main branch only"**.
 
 <img width="579" alt="Screenshot 2023-09-20 131908" src="https://github.com/serilog/serilog-settings-configuration/assets/11747682/9d22975d-56f5-4d2e-8e07-015603b61c46">
 
-2. Create a PR comparing the `blahhhhh` branch in your repo to the `main` branch in the original repo.
+2. Create a PR comparing the `M5W2AssessmentCode` branch in your repo to the `main` branch in the original repo.
 
 <img width="845" alt="Screenshot 2023-09-20 132612" src="https://github.com/serilog/serilog-settings-configuration/assets/11747682/6ac4b0fd-48ea-4b20-8049-f4a2f9f0ec28">
 
-3. Add your Code Review as comments in the PR.
+3. Add your Code Review as comments in the PR. It also might be helpful to clone the repo and checkout the branch up for review.
 
 <img width="853" alt="Screenshot 2023-09-20 132923" src="https://github.com/serilog/serilog-settings-configuration/assets/11747682/58247df6-b1a8-4a3f-b4ec-aa15e467025c">
 
